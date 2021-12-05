@@ -30,4 +30,4 @@ This is Anti-Phishing Web-site
 
 4. Change the 'mysqli_connect' details according to your settings
 
-4. In the address field of crome 'localhost/<your folder path>/index1.php'
+4. In the address field of crome 'localhost/your folder path/index1.php'
